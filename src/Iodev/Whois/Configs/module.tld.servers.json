@@ -958,7 +958,7 @@
   {"zone": ".sarl", "host": "whois.nic.sarl"},
   {"zone": ".save", "host": "whois.nic.save"},
   {"zone": ".saxo", "host": "whois.nic.saxo"},
-  {"zone": ".sb", "host": "whois.nic.net.sb"},
+  {"zone": ".sb", "host": "whois.nic.sb"},
   {"zone": ".sbi", "host": "whois.nic.sbi"},
   {"zone": ".sbs", "host": "whois.nic.sbs"},
   {"zone": ".sc", "host": "whois2.afilias-grs.net"},
